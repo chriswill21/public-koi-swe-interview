@@ -1,0 +1,16 @@
+Data Directory Contents
+======================
+
+This directory contains the following data files:
+
+1. sales_january.csv
+   - Contains sales data for January
+   - Used for analyzing monthly sales performance
+
+2. empty.csv
+   - An empty CSV file template
+   - Can be used as a reference for the expected file structure
+   - Also used for testing edge cases in the data pipeline
+
+Note: Additional data files can be added to this directory following the same structure as sales_january.csv.
+
